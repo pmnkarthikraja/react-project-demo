@@ -26,6 +26,9 @@ Technologies Used:-
 2. JavaScript
 3. HTML
 4. CSS
+5. Elastic UI
+6. Axios
+7. React Hook Form
 
 Credits:-
 This project was created by karthikraja. Feel free to contribute or report issues here
